@@ -11,3 +11,4 @@
 
 •	Project was executed using project management skills: Project charter (Using Mural), stakeholder mapping analysis, Kanban board for task assignment to improve productivity
 
+![](https://github.com/Ola-20/TC/blob/main/image/git%202.JPG)
